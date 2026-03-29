@@ -1,3 +1,3 @@
-# BADING-SI-RICK
+# ST-BOT
 
-This repository contains the initial files for the BADING-SI-RICK project.
+This is the README for the ST-BOT project.
